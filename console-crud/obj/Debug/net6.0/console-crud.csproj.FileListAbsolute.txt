@@ -1,0 +1,14 @@
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\bin\Debug\net6.0\console-crud.exe
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\bin\Debug\net6.0\console-crud.deps.json
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\bin\Debug\net6.0\console-crud.runtimeconfig.json
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\bin\Debug\net6.0\console-crud.dll
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\bin\Debug\net6.0\console-crud.pdb
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\console-crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\console-crud.AssemblyInfoInputs.cache
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\console-crud.AssemblyInfo.cs
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\console-crud.csproj.CoreCompileInputs.cache
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\console-crud.dll
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\refint\console-crud.dll
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\console-crud.pdb
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\console-crud.genruntimeconfig.cache
+C:\Users\delzi\OneDrive\Documents\console-crud\console-crud\obj\Debug\net6.0\ref\console-crud.dll
